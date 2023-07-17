@@ -1,5 +1,11 @@
 # mobx
 
+## 6.9.2
+
+### Patch Changes
+
+-   [`55f78ddc`](https://github.com/mobxjs/mobx/commit/55f78ddc20e84f38a7aa88b99a51ad994e558241) [#3717](https://github.com/mobxjs/mobx/pull/3717) Thanks [@liucan233](https://github.com/liucan233)! - remove proxy option for makeObservable and makeAutoObservable
+
 ## 6.9.1
 
 ### Patch Changes
